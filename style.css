@@ -1,3 +1,58 @@
 img {
+    float: left;
+    margin: 10px;
+}
+
+iframe {
+    float: left;
+    margin: 10px;
+}
+
+p {
+    margin: 10px;
+}
+
+h3 {
+    margin: 10px;
+}
+
+.container {
+    margin: auto;
+    width: 80%;
+}
+
+.paragrafos {
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    height: 630px;
+    border: 5px solid black;
+}
+
+
+/* Tamanho das imagens */
+
+.img-1 {
+    height: 100px;
+}
+
+.img-2 {
+    height: 200px;
+}
+
+.img-3 {
+    height: 310px;
+}
+
+.img-4 {
+    height: 210px;
+}
+
+.img-5 {
+    height: 400px;
+}
+
+.img-6 {
     height: 300px;
 }
+
