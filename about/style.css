@@ -34,3 +34,8 @@ h1 {
 p {
     color: #fbe2b9;
 }
+
+.square-about {
+    width: 80%;
+    text-align: justify;
+}
