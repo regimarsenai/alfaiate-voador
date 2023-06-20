@@ -1,8 +1,8 @@
 /* Menu */
 
 .menu {
-    background-color:#281f20;
-    color: #fbe2b9;
+    background-color:#2e364a;
+    color: #fff2dd;
     width: 80%;
     height: 50px;
 
@@ -10,27 +10,33 @@
     align-items: center;
     justify-content: space-around;
 
-    font-size: x-large;
-
     border-radius: 25px;
-    border: 3px solid #fbe2b9;
+    border: 3px solid #fff2dd;
 }
 
 a {
-    color: #fbe2b9;
+    color: #fff2dd;
 }
 
 body {
-    background-color: #281f20;
+    background-color: #2e364a;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-h1 {
-    color: #fbe2b9;
+i {
+    font-size: x-large;
+}
+
+h2 {
+    color: #fff2dd;
 }
 
 p {
-    color: #fbe2b9;
+    color: #fff2dd;
+}
+
+h3 {
+    margin: 20px;
 }
